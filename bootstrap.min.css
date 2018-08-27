@@ -43,10 +43,10 @@ b, strong {
 dfn {
 	font-style: italic
 }
-h1 {
+/*h1 {
 	margin: .67em 0;
 	font-size: 2em
-}
+}*/
 mark {
 	color: #000;
 	background: #ff0
@@ -1112,18 +1112,18 @@ hr {
 [role=button] {
 	cursor: pointer
 }
-.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-	/*font-family: inherit;*/
+/*.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-family: inherit;
 	font-weight: 500;
 	line-height: 1.1;
 	color: inherit
-}
-.h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
+}*/
+/*.h1 .small, .h1 small, .h2 .small, .h2 small, .h3 .small, .h3 small, .h4 .small, .h4 small, .h5 .small, .h5 small, .h6 .small, .h6 small, h1 .small, h1 small, h2 .small, h2 small, h3 .small, h3 small, h4 .small, h4 small, h5 .small, h5 small, h6 .small, h6 small {
 	font-weight: 400;
 	line-height: 1;
 	color: #777
-}
-.h1, .h2, .h3, h1, h2, h3 {
+}*/
+/*.h1, .h2, .h3, h1, h2, h3 {
 	margin-top: 20px;
 	margin-bottom: 10px
 }
@@ -1157,7 +1157,7 @@ hr {
 }
 p {
 	margin: 0 0 10px
-}
+}*/
 .lead {
 	margin-bottom: 20px;
 	font-size: 16px;
